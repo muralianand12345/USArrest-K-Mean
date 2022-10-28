@@ -19,5 +19,5 @@ Assign each observation to the cluster whose centroid is closest. Here, closest 
 
 ## Kaggle Dataset
 
-For further details about the dataset use this link here 👇\n 
+For further details about the dataset use this link here 👇<br>
 https://www.kaggle.com/datasets/halimedogan/usarrests
