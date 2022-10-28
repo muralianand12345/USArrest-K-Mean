@@ -16,3 +16,8 @@ First, we must decide how many clusters we’d like to identify in the data. Oft
 
 For each of the K clusters, compute the cluster centroid. This is simply the vector of the p feature means for the observations in the kth cluster.
 Assign each observation to the cluster whose centroid is closest. Here, closest is defined using Euclidean distance.
+
+## Kaggle Dataset
+
+For further details about he dataset
+https://www.kaggle.com/datasets/halimedogan/usarrests
